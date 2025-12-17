@@ -1,5 +1,9 @@
 # SistemesOperatius-PAC3
 Hi ha diversos scripts en la carpeta Scripts, ha continuació explicare que fa cada un.
+Aquest repositori serveix per a poder obtenir i utilitzar, aixì com si es vol, pujar-los al teu propi github, diversos scripts, principalment serveixen per:
+- Crear Logs
+- Crear copies de seguretat
+- Crear Usuaris i el seu directori home
 
 ## Scripts
 ### hellocloudnova.sh
