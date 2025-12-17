@@ -5,7 +5,8 @@ Hi ha diversos scripts en la carpeta Scripts, ha continuació explicare que fa c
 ### hellocloudnova.sh
 Aquest script afegeix una linia al fitxer ja existent dins de la carpeta Logs, anomenat Welcome.log, i afegeix a aquest una linia de text així com la data i hora en que s'ha fet, esta programat per a executar-se cada 5 minuts en un cron, en la carpeta Config.
 
-La part despres del >> es la ubicació on es guardara el fitxer així que si canvies la ruta hi hi ha un fitxer on desar-ho en aquell desti ho guardara, has d'haber creat el fitxer amb antelació, encara que estigui buit.
+La part despres del >> es la ubicació on es guardara el fitxer així que si canvies la ruta hi hi ha un fitxer on desar-ho en aquell desti ho guardara, has d'haber creat el fitxer amb antelació, encara que estigui buit. 
+## 
 Coamnda ubicació:  >> /home/bernat/PAC3/logs/Welcome.log
 
 ### backups.sh
